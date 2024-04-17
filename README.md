@@ -47,7 +47,7 @@ You can customize the game by modifying the following:
 This game was created by [Your Name] as a fun project inspired by the classic Magic 8 Ball toy.
 
 ### Feedback
-If you have any feedback, suggestions, or bug reports, feel free to [open an issue](https://github.com/your-username/magic-8-ball/issues) or [contact me](mailto:your-email@example.com). Your input is highly appreciated!
+If you have any feedback, suggestions, or bug reports, feel free to [open an issue](https://github.com/@Roshanakahrtz/magic-8-ball/issues) or [contact me](mailto:roshankumar2004@gmail.com). Your input is highly appreciated!
 
 Enjoy the game and may the Magic 8 Ball guide you on your journey!
 
