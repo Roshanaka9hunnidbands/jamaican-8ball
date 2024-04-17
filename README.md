@@ -1,4 +1,4 @@
-Jamican Magic 8 Ball
+Jamaican Magic 8 Ball
 
 Welcome to the Magic 8 Ball game!
 
