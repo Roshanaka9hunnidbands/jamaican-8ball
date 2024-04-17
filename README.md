@@ -46,9 +46,6 @@ You can customize the game by modifying the following:
 ### Credits
 This game was created by [Your Name] as a fun project inspired by the classic Magic 8 Ball toy.
 
-### License
-This project is licensed under the [MIT License](LICENSE).
-
 ### Feedback
 If you have any feedback, suggestions, or bug reports, feel free to [open an issue](https://github.com/your-username/magic-8-ball/issues) or [contact me](mailto:your-email@example.com). Your input is highly appreciated!
 
