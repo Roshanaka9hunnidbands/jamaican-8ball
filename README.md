@@ -20,7 +20,7 @@ Before running the game, make sure you have the following installed:
 ### Installation
 1. Clone the repository to your local machine:
    ```
-   git clone https://github.com/your-username/magic-8-ball.git
+   git clone https://github.com/Roshanaka9hunnidbands/magic-8-ball.git
    ```
 2. Navigate to the project directory:
    ```
