@@ -44,7 +44,7 @@ You can customize the game by modifying the following:
 - **UI**: Adjust colors, fonts, and layout in the code to personalize the user interface.
 
 ### Credits
-This game was created by [Your Name] as a fun project inspired by the classic Magic 8 Ball toy.
+This game was created by me as a fun project inspired by the classic Magic 8 Ball toy.
 
 ### Feedback
 If you have any feedback, suggestions, or bug reports, feel free to open an issue or contact me Your input is highly appreciated!
