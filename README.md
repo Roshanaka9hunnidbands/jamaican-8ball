@@ -53,4 +53,4 @@ Enjoy the game and may the Magic 8 Ball guide you on your journey!
 
 ---
 
-Feel free to customize it further to add your personal touch!
+
