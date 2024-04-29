@@ -51,6 +51,5 @@ If you have any feedback, suggestions, or bug reports, feel free to open an issu
 
 Enjoy the game and may the Magic 8 Ball guide you on your journey!
 
----
 
 
