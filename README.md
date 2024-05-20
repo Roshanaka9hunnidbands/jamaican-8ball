@@ -14,7 +14,7 @@ The Magic 8 Ball is a classic fortune-telling toy that provides answers to yes-o
 
 ### Prerequisites
 Before running the game, make sure you have the following installed:
-- Python (3.x recommended)
+- Python (3.0 + recommended)
 - Pygame library
 
 ### Installation
